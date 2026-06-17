@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://thabit78.github.io/ThabitGamer/</loc>
   </url>
+
+  <url>
+    <loc>https://thabit78.github.io/ThabitGamer/Maps.html</loc>
+  </url>
+
+  <url>
+    <loc>https://thabit78.github.io/ThabitGamer/Seeds.html</loc>
+  </url>
+
+  <url>
+    <loc>https://thabit78.github.io/ThabitGamer/Server.html</loc>
+  </url>
+
 </urlset>
